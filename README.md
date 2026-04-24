@@ -1,4 +1,5 @@
 # 📊 Sales Performance Dashboard
+![Dashboard Preview](dashboard-preview.png)
 
 ## 🗂️ Project Overview
 An Excel-based sales analytics dashboard analyzing **3,500 orders** 
